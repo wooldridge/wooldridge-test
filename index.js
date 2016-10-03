@@ -9,5 +9,8 @@ module.exports = {
   },
   sayItInBlue: function (msg) {
     console.log(msg.blue);
+  },
+  sayItInYellow: function (msg) {
+    console.log(msg.yellow);
   }
 };
