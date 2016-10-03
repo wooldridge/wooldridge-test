@@ -6,5 +6,8 @@ module.exports = {
   },
   sayItInGreen: function (msg) {
     console.log(msg.green);
+  },
+  sayItInBlue: function (msg) {
+    console.log(msg.cyan);
   }
 };
